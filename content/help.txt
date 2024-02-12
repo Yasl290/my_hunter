@@ -1,0 +1,9 @@
+my_hunter
+Description: Un jeu de chasse où le joueur doit cliquer sur des oiseaux pour gagner des points.
+
+Les principales commandes du jeux sont le clique gauche et le clique droite de la souris
+
+Servez-vous en afin de toucher les canards !
+
+Options utilisateur disponibles :
+  -h          Affiche ce message d'aide.
